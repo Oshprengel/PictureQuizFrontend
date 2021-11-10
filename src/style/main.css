@@ -1,0 +1,23 @@
+#main {
+  display: flex;
+  flex-direction: column;
+}
+#main * {
+  margin: 10px auto;
+  font-size: 20px;
+}
+button {
+  border-radius: 20px;
+}
+input:hover {
+  background-color: lightsalmon;
+  transition-duration: 0.5s;
+}
+input:focus {
+  background-color: lightsalmon;
+}
+button:hover,
+#submitlogin:hover {
+  background-color: pink;
+  transition-duration: 0.5s;
+}

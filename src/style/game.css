@@ -1,0 +1,31 @@
+#instructions * {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+#instructions h3 {
+  padding: 10px;
+}
+#instructions h4 {
+  padding: 5px;
+}
+img {
+  height: 200px;
+  width: 200px;
+  margin: 10px auto;
+}
+#images {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  height: 75%;
+}
+#submitgame {
+  display: block;
+  margin: 10px auto;
+  font-size: 30px;
+}
+#submitgame:hover {
+  background-color: pink;
+  color: white;
+  transition-duration: 0.5s;
+}
