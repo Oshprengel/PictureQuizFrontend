@@ -9,6 +9,7 @@ Technologies used
 - react
 - react dom router
 - zenserp api
+- MongoDB
 
 Heroku App\
  https://picture-mixture.herokuapp.com/ \
