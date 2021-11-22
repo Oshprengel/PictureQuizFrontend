@@ -12,4 +12,6 @@ Technologies used
 
 Heroku App\
  https://picture-mixture.herokuapp.com/
+Backend Github\
+ https://github.com/Oshprengel/PictureMixtureBackend
 
