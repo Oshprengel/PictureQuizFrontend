@@ -11,7 +11,7 @@ Technologies used
 - zenserp api
 
 Heroku App\
- https://picture-mixture.herokuapp.com/
+ https://picture-mixture.herokuapp.com/ \
 Backend Github\
  https://github.com/Oshprengel/PictureMixtureBackend
 
