@@ -8,6 +8,7 @@ import Login from './pages/login'
 import NewGame from './pages/newgame'
 import NewUser from './pages/newuser';
 import LeaderBoard from './pages/leaderboard';
+import '@fontsource/roboto/700.css';
 
 function App() {
   //state
@@ -38,7 +39,6 @@ function App() {
         </Route>
       </Switch>
       </div>
-      <Footer/>
     </div>
   );
 }
